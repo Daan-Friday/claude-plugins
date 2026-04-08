@@ -8,8 +8,9 @@
       "name": "probleemwijken",
       "description": "Plays random Probleemwijken/Derkolk sounds and sends desktop notifications on Claude Code events",
       "source": {
-        "source": "npm",
-        "package": "claudecode-probleemwijken"
+        "source": "url",
+        "url": "https://github.com/Daan-Friday/claudecode-probleemwijken.git",
+        "sha": "190ddf6b6c578cef2c5983281441244d701eb9a6"
       }
     }
   ]
