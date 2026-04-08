@@ -1,0 +1,16 @@
+{
+  "name": "daan-friday-plugins",
+  "owner": {
+    "name": "Daan-Friday"
+  },
+  "plugins": [
+    {
+      "name": "probleemwijken",
+      "description": "Plays random Probleemwijken/Derkolk sounds and sends desktop notifications on Claude Code events",
+      "source": {
+        "source": "npm",
+        "package": "claudecode-probleemwijken"
+      }
+    }
+  ]
+}
